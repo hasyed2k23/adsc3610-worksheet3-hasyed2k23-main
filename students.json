@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Alice Johnson",
+        "age": 22,
+        "major": "Computer Science",
+        "email": "alice.johnson@example.com"
+    },
+    {
+        "name": "Bob Smith",
+        "age": 24,
+        "major": "Mathematics",
+        "email": "bob.smith@example.com"
+    },
+    {
+        "name": "Charlie Brown",
+        "age": 20,
+        "major": "Physics",
+        "email": "charlie.brown@example.com"
+    },
+    {
+        "name": "Diana Prince",
+        "age": 21,
+        "major": "History",
+        "email": "diana.prince@example.com"
+    },
+    {
+        "name": "Eve Adams",
+        "age": 23,
+        "major": "Biology",
+        "email": "eve.adams@example.com"
+    },
+    {
+        "name": "Frank Wright",
+        "age": 22,
+        "major": "Chemistry",
+        "email": "frank.wright@example.com"
+    },
+    {
+        "name": "Grace Hopper",
+        "age": 24,
+        "major": "Computer Engineering",
+        "email": "grace.hopper@example.com"
+    },
+    {
+        "name": "Hank Pym",
+        "age": 21,
+        "major": "Biochemistry",
+        "email": "hank.pym@example.com"
+    },
+    {
+        "name": "Ivy League",
+        "age": 23,
+        "major": "Literature",
+        "email": "ivy.league@example.com"
+    },
+    {
+        "name": "Jack Daniels",
+        "age": 22,
+        "major": "Business",
+        "email": "jack.daniels@example.com"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "published_year": 1960,
+        "isbn": "978-0-06-112008-4",
+        "price": 10.99
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "published_year": 1949,
+        "isbn": "978-0-452-28423-4",
+        "price": 8.99
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "published_year": 1813,
+        "isbn": "978-0-19-953556-9",
+        "price": 12.99
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "published_year": 1925,
+        "isbn": "978-0-7432-7356-5",
+        "price": 9.99
+    },
+    {
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "published_year": 1851,
+        "isbn": "978-0-14-243724-7",
+        "price": 11.99
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "published_year": 1869,
+        "isbn": "978-0-14-044793-4",
+        "price": 14.99
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "published_year": 1951,
+        "isbn": "978-0-316-76948-0",
+        "price": 7.99
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "published_year": 1937,
+        "isbn": "978-0-618-00221-3",
+        "price": 10.49
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "published_year": 1953,
+        "isbn": "978-0-7432-4722-2",
+        "price": 9.49
+    },
+    {
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "published_year": 1847,
+        "isbn": "978-0-14-243720-9",
+        "price": 8.49
+    }
+]
